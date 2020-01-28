@@ -9,7 +9,7 @@ end
 planeteer_calls = ["earth", "wind", "fire", "water", "heart"]
 
 def summon_captain_planet
-  # Your code here
+  
 end
 
 def long_planeteer_calls# code an argument here
