@@ -17,7 +17,7 @@ def long_planeteer_calls(planeteer_calls)
  
 end
 
-potentially_cheesy_items
+potentially_cheesy_items = ["umbrella", ]
 
 def find_the_cheese# code an argument here
   
